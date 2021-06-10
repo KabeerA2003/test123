@@ -1,0 +1,4 @@
+loop i from 1 to 10:
+  x = 2 * i
+  print x
+end loop
